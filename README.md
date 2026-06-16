@@ -1,4 +1,4 @@
-# 📊 Global Superstore Sales Insights Dashboard
+# Global Superstore Sales Insights Dashboard
 
 ## Overview
 
